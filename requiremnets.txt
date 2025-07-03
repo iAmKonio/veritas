@@ -1,0 +1,26 @@
+# Core LangChain and LLM integration
+langchain>=0.1.16
+langchain-community>=0.0.38
+langchain-google-genai>=0.0.5
+
+# Embeddings (HuggingFace models)
+sentence-transformers<3.0
+huggingface_hub<0.21
+
+# Vector store
+chromadb>=0.4.24
+
+# Document loading
+pypdf
+
+# Environment config
+python-dotenv
+
+# UI
+gradio>=4.25.0
+
+# For progress bars/logs (optional but helpful)
+tqdm
+
+# FIX: Ensure compatibility with Chroma/OpenTelemetry/protobuf
+protobuf==3.20.*
