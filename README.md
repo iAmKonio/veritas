@@ -71,8 +71,7 @@ To get this chatbot up and running, follow these steps:
     ```bash
     python veritas.py
     ```
-    (Replace `your_script_name.py` with the actual name of your Python file, e.g., `chatbot_app.py`)
-
+   
     The application will start, and you'll see a local URL (e.g., `http://0.0.0.0:7860`) in your terminal. Open this URL in your web browser to access the chatbot. If `share=True` is enabled in `demo.launch()`, you'll also get a public Gradio share link.
 
 ### 💡 Usage
