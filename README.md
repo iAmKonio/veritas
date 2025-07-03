@@ -61,6 +61,7 @@ To get this chatbot up and running, follow these steps:
         ```
         GOOGLE_API_KEY="your_google_gemini_api_key_here"
         ```
+    * NOTE: DO NOT PUBLISH ANY API KEYS
 
 5.  **Place Your Documents:**
     * There is a folder named `docs` in the root directory of your project.
