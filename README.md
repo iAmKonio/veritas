@@ -35,8 +35,8 @@ To get this chatbot up and running, follow these steps:
 1.  **Clone the Repository:**
 
     ```bash
-    git clone [your-repository-url]
-    cd [your-repository-name]
+    git clone https://github.com/iAmKonio/veritas.git
+    cd veritas
     ```
 
 2.  **Create a Virtual Environment (Recommended):**
